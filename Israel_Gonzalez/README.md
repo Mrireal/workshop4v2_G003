@@ -17,7 +17,8 @@ pytest -v
 ## Evidencia de GitHub Actions
 
 - Estado esperado: workflow en verde.
-- Enlace a ejecuciones del workflow: https://github.com/Mrireal/workshop4v2_G003/actions
+- Enlace a ejecuciones del workflow: https://github.com/Mrireal/taller04vs2PruebaMia/actions
 - Captura del Action en verde:
 
 ![Evidencia GitHub Actions](image.png)
+![#2](image-1.png)
