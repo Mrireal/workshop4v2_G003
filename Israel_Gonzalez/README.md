@@ -1,7 +1,5 @@
 # Taller CI - Correcciones
 
-[![CI](https://github.com/Mrireal/workshop4v2_G003/actions/workflows/workflow.yml/badge.svg)](https://github.com/Mrireal/workshop4v2_G003/actions/workflows/workflow.yml)
-
 Este repositorio corrige los errores de:
 
 - Logica en `functions.py`.
